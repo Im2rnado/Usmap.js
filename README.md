@@ -1,7 +1,7 @@
 # Usmap.JS
 [![npm version](https://img.shields.io/npm/v/usmap.svg)](https://npmjs.com/package/usmap)
 [![npm downloads](https://img.shields.io/npm/dm/usmap.svg)](https://npmjs.com/package/usmap)
-[![license](https://img.shields.io/npm/l/usmap.svg)](https://github.com/Im2rnado/Usmap.js/blob/master/LICENSE.MD)
+[![license](https://img.shields.io/npm/l/usmap.svg)](https://github.com/Im2rnado/Usmap.js/blob/master/LICENSE)
 
 An NPM Library to parse Usmap files
 
