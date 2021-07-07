@@ -2,6 +2,9 @@
 [![npm version](https://img.shields.io/npm/v/usmap.svg)](https://npmjs.com/package/usmap)
 [![npm downloads](https://img.shields.io/npm/dm/usmap.svg)](https://npmjs.com/package/usmap)
 [![license](https://img.shields.io/npm/l/usmap.svg)](https://github.com/Im2rnado/Usmap.js/blob/master/LICENSE)
+[![discord](https://img.shields.io/badge/Discord-tornado%239999-%237289DA?logo=discord)](https://discord.com/channels/@me)
+[![twitter](https://img.shields.io/badge/Twitter-@im2rnadoo-%231DA1F2?logo=twitter)](https://twitter.com/im2rnadoo)
+[![donate](https://img.shields.io/badge/Donate%20Bitcoin-1F2gwh4U4KHk2n8eWEKtwsfMxgh9ibUMtn-%23FF9900?logo=bitcoin)]()
 
 An NPM Library to parse Usmap files
 
